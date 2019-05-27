@@ -1,0 +1,14 @@
+{
+  "name": "todor",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "GPL3",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
